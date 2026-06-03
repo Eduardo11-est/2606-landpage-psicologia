@@ -28,7 +28,7 @@ echo.
 echo [3/3] Enviando arquivos para a branch "main" no GitHub...
 echo (Isso pode exigir autenticação do GitHub no seu terminal)
 echo.
-git push -u origin main
+git push -u origin main --force
 
 if %errorlevel% equ 0 (
     echo.
