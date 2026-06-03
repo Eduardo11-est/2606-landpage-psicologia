@@ -65,3 +65,7 @@ Como o projeto é construído em HTML/CSS/JS puro, ele não requer a instalaçã
 ## 👩‍⚕️ Sobre a Profissional
 
 A **Dra. Ana Beatriz Mello** é psicóloga clínica (CRP 06/123456) formada pela USP, especializada em Terapia Cognitivo-Comportamental (TCC) e Mindfulness. Ela atende de forma online e presencial na região de Pinheiros, São Paulo - SP.
+
+---
+*Configurações de versionamento e publicação validadas com sucesso.*
+
